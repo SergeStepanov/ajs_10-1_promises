@@ -1,1 +1,1 @@
-# ajs_10-1_promises
+# ajs_10-1_promises [![Build status](https://ci.appveyor.com/api/projects/status/94856y2g6rftk1tu?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-10-1-promises)
